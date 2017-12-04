@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp.csproj", "{5C42077B-B5B2-4946-BD0C-4EE1CBFC8712}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7785E280-72D9-4106-813B-5A2EDEE48071} = {7785E280-72D9-4106-813B-5A2EDEE48071}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountingPicker", "..\AccountingPicker.csproj", "{7785E280-72D9-4106-813B-5A2EDEE48071}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5C42077B-B5B2-4946-BD0C-4EE1CBFC8712}.Debug.ActiveCfg = Debug|.NET
+		{5C42077B-B5B2-4946-BD0C-4EE1CBFC8712}.Debug.Build.0 = Debug|.NET
+		{5C42077B-B5B2-4946-BD0C-4EE1CBFC8712}.Release.ActiveCfg = Release|.NET
+		{5C42077B-B5B2-4946-BD0C-4EE1CBFC8712}.Release.Build.0 = Release|.NET
+		{7785E280-72D9-4106-813B-5A2EDEE48071}.Debug.ActiveCfg = Debug|.NET
+		{7785E280-72D9-4106-813B-5A2EDEE48071}.Debug.Build.0 = Debug|.NET
+		{7785E280-72D9-4106-813B-5A2EDEE48071}.Release.ActiveCfg = Release|.NET
+		{7785E280-72D9-4106-813B-5A2EDEE48071}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="DataSet1" targetNamespace="http://www.tempuri.org/DataSet1.xsd" xmlns:mstns="http://www.tempuri.org/DataSet1.xsd" xmlns="http://www.tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="DataSet1" msdata:IsDataSet="true">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element name="GL_JOURNAL_HEADERS">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JOURNAL_ID" type="xs:int" />
+              <xs:element name="JOURNAL_NUMBER" type="xs:int" />
+              <xs:element name="GL_YEAR" type="xs:int" />
+              <xs:element name="PERIOD" type="xs:int" />
+              <xs:element name="MODULE" type="xs:string" />
+              <xs:element name="TYPE" type="xs:string" />
+              <xs:element name="TRANSACTION_DATE" type="xs:dateTime" />
+              <xs:element name="REFERENCE" type="xs:string" minOccurs="0" />
+              <xs:element name="TOTAL_DEBITS" type="xs:decimal" />
+              <xs:element name="TOTAL_CREDITS" type="xs:decimal" />
+              <xs:element name="PRINTED" type="xs:string" />
+              <xs:element name="REVERSED" type="xs:string" />
+              <xs:element name="CREATED_BY" type="xs:string" />
+              <xs:element name="STATUS" type="xs:string" />
+              <xs:element name="NEXT_LINE_NUMBER" type="xs:int" />
+              <xs:element name="OPERATOR" type="xs:string" minOccurs="0" />
+              <xs:element name="DATE_SAVED" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="EXPIRE_PERIOD" type="xs:int" minOccurs="0" />
+              <xs:element name="EXPIRE_YEAR" type="xs:int" minOccurs="0" />
+              <xs:element name="F9_UPDATED" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:GL_JOURNAL_HEADERS" />
+      <xs:field xpath="mstns:JOURNAL_ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

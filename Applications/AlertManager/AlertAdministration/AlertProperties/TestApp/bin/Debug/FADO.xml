@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FADOV4</name>
+    </assembly>
+    <members>
+        <member name="M:FADO.Misc.WaitCursor">
+            <summary>
+            Sets Cursor.Current to WaitCursor.  No Need to Reset (Done by Windows)
+            </summary>
+        </member>
+        <member name="M:FADO.Misc.WaitCursor(System.Windows.Forms.Control,System.Boolean)">
+            <summary>
+            True: Sets this.Cursor to WaitCursor(),  False: Resets.   Must be Reset Manually.
+            </summary>
+            <param name="tf"></param>
+        </member>
+        <member name="M:FADO.Misc.BusyCursor(System.Boolean)">
+            <summary>
+            Do Not Use.  Use WaitCursor(tf),  or WaitCursor()
+            </summary>
+            <param name="tf"></param>
+        </member>
+        <member name="M:FADO.Misc.GetWindowsDirectoryPath1">
+            <summary>
+            Use GetWindowsDirPath Instead
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FADO.ObjConv">
+            <summary>
+            Object Conversion Static Functions
+            </summary>
+        </member>
+        <member name="M:FADO.ObjConv.dec(System.Object,System.Decimal)">
+            <summary>
+            Convert Object to Decimal
+            </summary>
+            <param name="o"></param>
+            <param name="RetIfInvalid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FADO.ObjConv.date(System.Object,System.String)">
+            <summary>
+            Old function replaced by DateStr()
+            </summary>
+            <param name="o"></param>
+            <param name="FormatString"></param>
+            <returns></returns>
+        </member>
+        <member name="T:FADO.StrConv">
+            <summary>
+            String Convesion and Formatting
+            </summary>
+        </member>
+        <member name="T:FADO.DB.Global">
+            <summary>
+            Global Static Database Access Functions / Constants
+            </summary>
+        </member>
+        <member name="M:FADO.DB.Global.SkipNextRunSQLErrorMsg">
+            <summary>
+            Call this to skip showing and Error Message for the next RunSQL
+            </summary>
+        </member>
+        <member name="M:FADO.DB.Global.qfix(System.String)">
+            <summary>
+            Fix string possibly containing single quotes for SQL String usage
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FADO.DB.Global.qfix(System.Object)">
+            <summary>
+            Convert Each Single Quote to 2 Single Quotes
+            </summary>
+            <param name="o"></param>
+            <returns></returns>
+        </member>
+        <member name="F:FADO.DB.Global.mREPORT_PATH">
+            <summary>
+            Call GetReportPath(sdb)  to set REPORT_PATH
+            </summary>
+        </member>
+        <member name="M:FADO.DB.Global.FillAdapter(System.Data.SqlClient.SqlDataAdapter,System.String,System.Data.DataSet,System.String)">
+            <summary>
+            Adapter Close Connections on their own  -As long as you don't explicitly open
+            the connection   (Just Call Fill with Un-Opened Connection)
+            </summary>
+            <param name="Adapt"></param>
+            <param name="ds"></param>
+            <param name="Location"></param>
+            <returns>true/false = success/fail</returns>
+        </member>
+        <member name="M:FADO.DB.Global.Get1SQL(System.String,System.String,System.String,System.Data.SqlClient.SqlParameter[],System.String)">
+            <summary>
+            Quick ExecSQL
+            </summary>
+            <param name="Server"></param>
+            <param name="DBName"></param>
+            <param name="SQL"></param>
+            <param name="Location"></param>
+            <returns>Records Affected, (ExecuteNonQuery Return Code),
+            -8 Connect Failed, -9 Sql Error (From SqlExec.RunSql)</returns>
+        </member>
+        <member name="M:FADO.DB.Global.Get1SQL(FADO.DB.ServerDatabase,System.String,System.Data.SqlClient.SqlParameter[],System.String,System.Object)">
+            <summary>
+            Quick way to get single field out of 1st row of a query result
+            Get1SQL(Svr, DB, "SELECT NAME FROM emp WHERE ID=22", "123")
+            </summary>
+            <param name="Server"></param>
+            <param name="DBName"></param>
+            <param name="SQL"></param>
+            <param name="Location"></param>
+            <returns>Value of Name as Object  or null</returns>
+        </member>
+        <member name="M:FADO.DB.Global.Get1ArraySQL(FADO.DB.ServerDatabase,System.String,System.Data.SqlClient.SqlParameter[],System.String)">
+            <summary>
+            Quick way to get multiple fields out of first row of query results
+            GetArraySQL(Svr, DB, "SELECT NAME, ADDR FROM emp WHERE ID=22", "123")
+            </summary>
+            <param name="Server"></param>
+            <param name="DBName"></param>
+            <param name="SQL"></param>
+            <param name="Location"></param>
+            <returns>object[]  or null</returns>
+        </member>
+        <member name="M:FADO.DB.DBIOBase.Connect">
+            <summary>
+            Use Connect() to Setup and Open Connection,  (Must manually close later though)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:FADO.DB.SqlReader">
+            <summary>
+            SQL Reader  Must Call Close() when done
+            </summary>
+        </member>
+        <member name="T:FADO.DB.SqlExec">
+            <summary>
+            If not using Transactions,  then you must explicitly call close() when done
+            </summary>
+        </member>
+        <member name="M:FADO.DB.SqlExec.TxGet1SQL(System.String,System.String,System.Object)">
+            <summary>
+            Inside of a Transaction, you deadlock yourself if you search through a table
+            you have modified earlier in the Transaction.
+            Use TxGet1SQL, TxGetArraySQL, TxRunReader to work on the modified database without deadlocks
+            (Just uses same connection)
+            </summary>
+            <param name="SQL"></param>
+            <param name="Location"></param>
+            <param name="NotFoundReturnValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FADO.DB.SqlExec.RunReader(System.String,System.String)">
+            <summary>
+            I think you need to manually close each Reader you get from RunReader
+            Need to test and see if pooled connections are released when TX is committed/RolledBack
+            </summary>
+            <param name="SQL"></param>
+            <param name="Location"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FADO.DB.SqlExec.RunSql(System.String,System.Data.SqlClient.SqlParameter[],System.String)">
+            <summary>
+            Quick SQL Exec
+            </summary>
+            <param name="SQL"></param>
+            <param name="Location"></param>
+            <returns>Rows Affected,  or -9 if SQL Exception occured</returns>
+        </member>
+        <member name="M:FADO.DB.SqlExec.RunSql(System.String,System.String,System.Int32@)">
+            <summary>
+            RunSQL with an ID output Parameter
+            </summary>
+            <param name="SQL"></param>
+            <param name="Location"></param>
+            <param name="ID"></param>
+            <returns>ID</returns>
+        </member>
+        <member name="M:FADO.DB.SqlExec.TxRollback">
+            <summary>
+            TxRollback or TxCommit  will automatically close the connection
+            (No Need to explicity call close() if using transactions)
+            </summary>
+        </member>
+    </members>
+</doc>

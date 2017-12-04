@@ -1,0 +1,321 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HMConnection</name>
+    </assembly>
+    <members>
+        <member name="T:HMConnection.HMCon">
+            <summary>
+            Connection Object used to Store Connection Strings and Database Names. 
+            Also stores Some User Info and Application Flags.
+            </summary>
+        </member>
+        <member name="M:HMConnection.HMCon.#ctor(System.String,System.String,System.Int32)">
+            <summary>
+            Creates and builds the Connection Objedt and Sets only the Web Connection and Contact ID.
+            This allows for a non-company specific HMCon and will not set MLUser and Department
+            </summary>
+            <param name="psWebDB">Web Database</param>
+            <param name="psWebServer">Web Server</param>
+            <param name="piContact">Contact ID</param>
+        </member>
+        <member name="M:HMConnection.HMCon.#ctor(System.String,System.String,System.Int32,System.Int32)">
+            <summary>
+            Creates and builds the Connection Object and Sets all Connection Strings , Database Names, Company User Name, Contact ID,
+            Department and Company ID
+            </summary>
+            <param name="psWebDB">Web Database Name</param>
+            <param name="psWebServer">Web Server</param>
+            <param name="piCompanyID">Company ID</param>
+            <param name="piContact">Contact ID</param>
+        </member>
+        <member name="M:HMConnection.HMCon.#ctor(System.String,System.String,System.Int32,System.String)">
+            <summary>
+            Creates and builds the Connection Object and Sets all Connection Strings , Database Names, Company User Name, Contact ID,
+            Department and Company ID
+            </summary>
+            <param name="psWebDB">Web Database Name</param>
+            <param name="psWebServer">Web Server</param>
+            <param name="piCompanyID">Company ID</param>
+            <param name="psMLUser">Company User Name</param>
+        </member>
+        <member name="M:HMConnection.HMCon.#ctor(System.String,System.String,System.Int32,System.String,System.String)">
+            <summary>
+            Creates and builds the Connection Object and Sets all Connection Strings, Database Names, Company User Name, Contact ID,
+            Department, Company ID and Style.
+            </summary>
+            <param name="psWebDB">Web Database Name</param>
+            <param name="psWebServer">Web Server Name</param>
+            <param name="piCompanyID">Company ID</param>
+            <param name="psMLUser">Company User Name</param>
+            <param name="psStyle">Style for Security (KickinIt DB Column Name)</param>
+        </member>
+        <member name="M:HMConnection.HMCon.#ctor(System.String,System.String,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            Creates and builds the Connection Object and Sets all Connection Strings, Database Names, Company User Name, Contact ID,
+            Department, Company ID, Style and ApplicationFlavour.
+            </summary>
+            <param name="psWebDB">Web Database Name</param>
+            <param name="psWebServer">Web Server Name</param>
+            <param name="piCompanyID">Company ID</param>
+            <param name="psMLUser">Company User Name</param>
+            <param name="psStyle">Style for Security (KickinIt DB Column Name)</param>
+            <param name="psApplicationFlavour">Applicaiton Flavour for Security</param>
+        </member>
+        <member name="M:HMConnection.HMCon.Init(System.String,System.String,System.Int32,System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Creates and builds the Connection Object and Sets all Connection Strings, Database Names, Company User Name, Contact ID,
+            Department, Company ID, Style and ApplicationFlavour.
+            </summary>
+            <param name="psWebDB">Web Database Name</param>
+            <param name="psWebServer">Web Server Name</param>
+            <param name="piCompanyID">Company ID</param>
+            <param name="psMLUser">Company User Name</param>
+            <param name="psStyle">Style for Security (KickinIt DB Column Name)</param>
+            <param name="psApplicationFlavour">Applicaiton Flavour</param>
+            <param name="piContactID">Contact ID</param>
+        </member>
+        <member name="M:HMConnection.HMCon.ChangeCompanyID">
+            <summary>
+            Refresh's all connection strings and DB's except for the Web information based off the new Company ID.
+            </summary>
+        </member>
+        <member name="M:HMConnection.HMCon.ResetHMConnection">
+            <summary>
+            Resets all Connection Strings and DB's Except for Web infomraiton to change Company ID.
+            </summary>
+        </member>
+        <member name="M:HMConnection.HMCon.GetCompaniesDBs">
+            <summary>
+            Retrives all Company DB's and Server information found in the Web Companies table for the Company ID Passed in.
+            Will not change DB's and Server Names if they are blank or do not exsist
+            </summary>
+        </member>
+        <member name="M:HMConnection.HMCon.BuildWebConnection">
+            <summary>
+            Creates the Web Connection string.
+            </summary>
+        </member>
+        <member name="M:HMConnection.HMCon.GetLandResCommDBs">
+            <summary>
+            Fills the Land, Res and Comm DB's and Servers.
+            </summary>
+        </member>
+        <member name="M:HMConnection.HMCon.CreateConnectionStrings">
+            <summary>
+            Creates all the Connection Strings. Does not setup connection strings if Server or DB is not found.
+            </summary>
+        </member>
+        <member name="M:HMConnection.HMCon.GetUserInfo">
+            <summary>
+            Fills in the current users info based of there Contact ID or MLUser Name
+            Contact ID if bWebContact is true else MLUser if not bWebContact
+            </summary>
+        </member>
+        <member name="M:HMConnection.HMCon.GetMLUserInfo">
+            <summary>
+            Fills in the current users Contact ID and there Department.
+            </summary>
+        </member>
+        <member name="M:HMConnection.HMCon.GetContactInfo">
+            <summary>
+            Fills in the current users MLUser and there Department.
+            </summary>
+        </member>
+        <member name="M:HMConnection.HMCon.GetCompanyInfo">
+            <summary>
+            Gets Company Table Information From Treasury DB
+            </summary>
+        </member>
+        <member name="M:HMConnection.HMCon.GetSystemCtrlInfo">
+            <summary>
+            Gets System Ctrl Information From Web DB
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.TimeOut">
+            <summary>
+            Sets the Connection String Timeout Value for all the connection strings.
+            Gets the Connection String Timeout Value for all the connection strings.
+            </summary>
+            <value>Connection String Time Out</value>
+        </member>
+        <member name="P:HMConnection.HMCon.WebDB">
+            <summary>
+            Gets the Web Database Name.
+            </summary>
+            <value>Web Database</value>
+        </member>
+        <member name="P:HMConnection.HMCon.WebServer">
+            <summary>
+            Gets the Web Server Name.
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.CompanyID">
+            <summary>
+            Gets or Set the Company ID.
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.MLUser">
+            <summary>
+            Gets the Current User
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.Style">
+            <summary>
+            Gets the Current Style (KickinIt - Database Column Name)
+            </summary>
+            <example>"OldStyle"</example>
+        </member>
+        <member name="P:HMConnection.HMCon.Department">
+            <summary>
+            Gets the Current Users Department
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.ContactID">
+            <summary>
+            Gets the Current Users Contact ID
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.ApplicationFlavour">
+            <summary>
+            Gets or Sets the Application Flavour
+            </summary>
+            <example>"Main"</example>
+        </member>
+        <member name="P:HMConnection.HMCon.TRDB">
+            <summary>
+            Gets the Treasury Database Name
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.HRDB">
+            <summary>
+            Gets the Human Database name
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.WHDB">
+            <summary>
+            Gets the Warehouse Database Name
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.TACDB">
+            <summary>
+            Gets the TAC Database name
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.LandDB">
+            <summary>
+            Gets the Land Database Name
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.ResDB">
+            <summary>
+            Gets the Residental Database Name
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.CommDB">
+            <summary>
+            Gets the Commercial Database Name
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.LGDB">
+            <summary>
+            Gets the Logon Datbase Name
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.EngageDB">
+            <summary>
+            Gets the Engage Database Name
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.WebConnection">
+            <summary>
+            Gets the Web Connection String. Retruns blank string if not set or not found.
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.TRConnection">
+            <summary>
+            Gets the Treasury Connection String. Retruns blank string if not set or not found.
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.HRConnection">
+            <summary>
+            Gets the Human Connection String. Retruns blank string if not set or not found.
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.WHConnection">
+            <summary>
+            Gets the Warehouse Connection String. Retruns blank string if not set or not found.
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.LGConnection">
+            <summary>
+            Gets the Logon Connection String. Retruns blank string if not set or not found.
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.TACConnection">
+            <summary>
+            Gets the TAC Connection String. Retruns blank string if not set or not found.
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.LANDConnection">
+            <summary>
+            Gets the Land Connection String. Retruns blank string if not set or not found.
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.RESConnection">
+            <summary>
+            Gets the Residential Connection String. Retruns blank string if not set or not found.
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.COMMConnection">
+            <summary>
+            Gets the Commercial Connection String. Retruns blank string if not set or not found.
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.EngageConnection">
+            <summary>
+            Gets the Engage Connection String. Retruns blank string if not set or not found.
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.CompanyServer">
+            <summary>
+            Gets the Server for the Companies Table Based On AutoID
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.LandServer">
+            <summary>
+            Gets the Land Server
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.ResServer">
+            <summary>
+            Gets the Residential Server
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.CommServer">
+            <summary>
+            Gets the Commercial Server
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.ReportPath">
+            <summary>
+            Gets the Company Report Path
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.AppPath">
+            <summary>
+            Gets the web App Path
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.CountryCode">
+            <summary>
+            Gets Companies Country Code
+            </summary>
+        </member>
+        <member name="P:HMConnection.HMCon.CompanyType">
+            <summary>
+            Gets Company Type Code
+            </summary>
+        </member>
+    </members>
+</doc>

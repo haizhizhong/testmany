@@ -1,0 +1,199 @@
+<VisualStudioProject>
+    <CSHARP
+        ProjectType = "Local"
+        ProductVersion = "7.10.6030"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{5C8EC2BB-61C0-460F-B85D-315AC13B2E78}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = ""
+                AssemblyKeyContainerName = ""
+                AssemblyName = "AccessSecurity"
+                AssemblyOriginatorKeyFile = ""
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "Library"
+                PreBuildEvent = ""
+                PostBuildEvent = ""
+                RootNamespace = "AccessSecurity"
+                RunPostBuildEvent = "OnBuildSuccess"
+                StartupObject = ""
+            >
+                <Config
+                    Name = "Debug"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "DEBUG;TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "true"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "false"
+                    OutputPath = "..\..\..\..\DotNetCompileDirectory(no running)\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+                <Config
+                    Name = "Release"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "false"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "true"
+                    OutputPath = "bin\Release\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.dll"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Data.dll"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.XML.dll"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Drawing.dll"
+                />
+                <Reference
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Windows.Forms.dll"
+                />
+                <Reference
+                    Name = "DevExpress.XtraGrid.v6.3"
+                    AssemblyName = "DevExpress.XtraGrid.v6.3"
+                    HintPath = "C:\Program Files\Developer Express .NET v6.1\Sources\DevExpress.DLL\DevExpress.XtraGrid.v6.1.dll"
+                    AssemblyFolderKey = "hklm\developer express .net v6.1"
+                />
+                <Reference
+                    Name = "DevExpress.XtraGrid.v6.3.Design"
+                    AssemblyName = "DevExpress.XtraGrid.v6.3.Design"
+                    HintPath = "C:\Program Files\Developer Express .NET v6.1\Sources\DevExpress.DLL\DevExpress.XtraGrid.v6.1.Design.dll"
+                    AssemblyFolderKey = "hklm\developer express .net v6.1"
+                />
+                <Reference
+                    Name = "DevExpress.Utils.v6.3"
+                    AssemblyName = "DevExpress.Utils.v6.3"
+                    HintPath = "C:\Program Files\Developer Express .NET v6.1\Sources\DevExpress.DLL\DevExpress.Utils.v6.1.dll"
+                    AssemblyFolderKey = "hklm\developer express .net v6.1"
+                />
+                <Reference
+                    Name = "TUC_HMDevXManager"
+                    AssemblyName = "TUC_HMDevXManager"
+                    HintPath = "c:\dotnetcompiledirectory(no running)\TUC_HMDevXManager.dll"
+                />
+                <Reference
+                    Name = "DevExpress.XtraEditors.v6.3"
+                    AssemblyName = "DevExpress.XtraEditors.v6.3"
+                    HintPath = "C:\Program Files\Developer Express .NET v6.1\Sources\DevExpress.DLL\DevExpress.XtraEditors.v6.1.dll"
+                    AssemblyFolderKey = "hklm\developer express .net v6.1"
+                />
+                <Reference
+                    Name = "WS_Popups"
+                    AssemblyName = "WS_Popups"
+                    HintPath = "c:\dotnetcompiledirectory(no running)\WS_Popups.dll"
+                />
+                <Reference
+                    Name = "System.Design"
+                    AssemblyName = "System.Design"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Design.dll"
+                />
+                <Reference
+                    Name = "DevExpress.XtraBars.v6.3"
+                    AssemblyName = "DevExpress.XtraBars.v6.3"
+                    HintPath = "C:\Program Files\Developer Express .NET v6.1\Sources\DevExpress.DLL\DevExpress.XtraBars.v6.1.dll"
+                    AssemblyFolderKey = "hklm\developer express .net v6.1"
+                />
+                <Reference
+                    Name = "HMConnection"
+                    AssemblyName = "HMConnection"
+                    HintPath = "..\..\..\..\DotNetCompileDirectory(no running)\HMConnection.dll"
+                />
+                <Reference
+                    Name = "DevExpress.Data.v6.3"
+                    AssemblyName = "DevExpress.Data.v6.3"
+                    HintPath = "C:\Program Files\Developer Express .NET v6.1\Sources\DevExpress.DLL\DevExpress.Data.v6.1.dll"
+                    AssemblyFolderKey = "hklm\developer express .net v6.1"
+                />
+                <Reference
+                    Name = "FADO"
+                    AssemblyName = "FADO"
+                    HintPath = "..\..\..\..\DotNetCompileDirectory(no running)\FADO.dll"
+                />
+                <Reference
+                    Name = "DashboardSecurity"
+                    AssemblyName = "DashboardSecurity"
+                    HintPath = "..\..\..\..\DotNetCompileDirectory(no running)\DashboardSecurity.dll"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "AssemblyInfo.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "dsInstance.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "dsInstance.cs"
+                />
+                <File
+                    RelPath = "dsInstance.cs"
+                    DependentUpon = "dsInstance.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "frmSecurity.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "frmSecurity.resx"
+                    DependentUpon = "frmSecurity.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "licenses.licx"
+                    BuildAction = "EmbeddedResource"
+                />
+            </Include>
+        </Files>
+    </CSHARP>
+</VisualStudioProject>
+

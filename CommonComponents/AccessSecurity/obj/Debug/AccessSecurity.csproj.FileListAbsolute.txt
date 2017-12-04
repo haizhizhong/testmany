@@ -1,0 +1,10 @@
+C:\DEVGRP\DotNetCompileDirectory(no running)\AccessSecurity.dll
+C:\DEVGRP\DotNetCompileDirectory(no running)\AccessSecurity.pdb
+C:\DEVGRP\Reflex101\DotNet\CommonComponents\AccessSecurity\obj\Debug\ResolveAssemblyReference.cache
+C:\DEVGRP\Reflex101\DotNet\CommonComponents\AccessSecurity\obj\Debug\AccessSecurity.frmSecurity.resources
+C:\DEVGRP\Reflex101\DotNet\CommonComponents\AccessSecurity\obj\Debug\AccessSecurity.csproj.GenerateResource.Cache
+C:\DEVGRP\Reflex101\DotNet\CommonComponents\AccessSecurity\obj\Debug\AccessSecurity.dll.licenses
+C:\DEVGRP\Reflex101\DotNet\CommonComponents\AccessSecurity\obj\Debug\AccessSecurity.dll
+C:\DEVGRP\Reflex101\DotNet\CommonComponents\AccessSecurity\obj\Debug\AccessSecurity.pdb
+C:\DEVGRP\Reflex101\DotNet\DotNetCompileDirectory(no running)\AccessSecurity.dll
+C:\DEVGRP\Reflex101\DotNet\DotNetCompileDirectory(no running)\AccessSecurity.pdb

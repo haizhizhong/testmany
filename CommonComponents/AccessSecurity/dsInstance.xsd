@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="dsInstance" targetNamespace="http://www.tempuri.org/dsInstance.xsd" xmlns:mstns="http://www.tempuri.org/dsInstance.xsd" xmlns="http://www.tempuri.org/dsInstance.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="dsInstance" msdata:IsDataSet="true">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element name="Security_Instance">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" />
+              <xs:element name="SQ_ID" type="xs:int" minOccurs="0" />
+              <xs:element name="Target" type="xs:string" minOccurs="0" />
+              <xs:element name="Source" type="xs:string" minOccurs="0" />
+              <xs:element name="CompanyID" type="xs:int" minOccurs="0" />
+              <xs:element name="Active" type="xs:boolean" minOccurs="0" />
+              <xs:element name="TargetType" type="xs:string" minOccurs="0" />
+              <xs:element name="isWidget" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Company_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="TargetDesc" type="xs:string" minOccurs="0" />
+              <xs:element name="WidgetName" type="xs:string" minOccurs="0" />
+              <xs:element name="TargetName" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

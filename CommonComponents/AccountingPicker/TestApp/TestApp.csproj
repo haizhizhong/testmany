@@ -1,0 +1,193 @@
+<VisualStudioProject>
+    <CSHARP
+        ProjectType = "Local"
+        ProductVersion = "7.10.6030"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{5C42077B-B5B2-4946-BD0C-4EE1CBFC8712}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = "App.ico"
+                AssemblyKeyContainerName = ""
+                AssemblyName = "TestApp"
+                AssemblyOriginatorKeyFile = ""
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "WinExe"
+                PreBuildEvent = ""
+                PostBuildEvent = ""
+                RootNamespace = "TestApp"
+                RunPostBuildEvent = "OnBuildSuccess"
+                StartupObject = ""
+            >
+                <Config
+                    Name = "Debug"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "DEBUG;TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "true"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "false"
+                    OutputPath = "bin\Debug\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+                <Config
+                    Name = "Release"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "false"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "true"
+                    OutputPath = "bin\Release\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.dll"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Data.dll"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Drawing.dll"
+                />
+                <Reference
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Windows.Forms.dll"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.XML.dll"
+                />
+                <Reference
+                    Name = "accountingpicker"
+                    AssemblyName = "AccountingPicker"
+                    HintPath = "..\..\..\dotnetcompiledirectory(no running)\accountingpicker.dll"
+                />
+                <Reference
+                    Name = "DevExpress.Utils.v16.2"
+                    AssemblyName = "DevExpress.Utils.v16.2"
+                    
+                    AssemblyFolderKey = "hklm\developer express .net v6.1"
+                />
+                <Reference
+                    Name = "DevExpress.XtraPrinting.v16.2"
+                    AssemblyName = "DevExpress.XtraPrinting.v16.2"
+                    
+                    AssemblyFolderKey = "hklm\developer express .net v6.1"
+                />
+                <Reference
+                    Name = "DevExpress.XtraGrid.v16.2"
+                    AssemblyName = "DevExpress.XtraGrid.v16.2"
+                    
+                    AssemblyFolderKey = "hklm\developer express .net v6.1"
+                />
+                <Reference
+                    Name = "DevExpress.Pdf.v16.2.Core"
+                    AssemblyName = "DevExpress.Pdf.v16.2.Core"
+                    
+                    AssemblyFolderKey = "hklm\developer express .net v6.1"
+                />
+                <Reference
+                    Name = "DevExpress.Printing.v16.2.Core"
+                    AssemblyName = "DevExpress.Printing.v16.2.Core"
+                    
+                    AssemblyFolderKey = "hklm\developer express .net v6.1"
+                />
+                <Reference
+                    Name = "DevExpress.Data.v16.2"
+                    AssemblyName = "DevExpress.Data.v16.2"
+                    
+                    AssemblyFolderKey = "hklm\developer express .net v6.1"
+                />
+                <Reference
+                    Name = "DevExpress.XtraEditors.v16.2"
+                    AssemblyName = "DevExpress.XtraEditors.v16.2"
+                    
+                    AssemblyFolderKey = "hklm\developer express .net v6.1"
+                />
+                <Reference
+                    Name = "TUC_HMDevXManager"
+                    AssemblyName = "TUC_HMDevXManager"
+                    HintPath = "..\..\..\DotNetCompileDirectory(no running)\TUC_HMDevXManager.dll"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "App.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "AssemblyInfo.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "DataSet1.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "DataSet1.cs"
+                />
+                <File
+                    RelPath = "DataSet1.cs"
+                    DependentUpon = "DataSet1.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "DataSet1.xsx"
+                    DependentUpon = "DataSet1.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "Form1.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Form1.resx"
+                    DependentUpon = "Form1.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "licenses.licx"
+                    BuildAction = "EmbeddedResource"
+                />
+            </Include>
+        </Files>
+    </CSHARP>
+</VisualStudioProject>

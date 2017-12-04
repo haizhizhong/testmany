@@ -1,0 +1,36 @@
+C:\DEVGRP\Reflex101\DotNet\CommonComponents\AccountingPicker\obj\Debug\ResolveAssemblyReference.cache
+C:\DEVGRP\Reflex101\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.PeriodsAdmin.resources
+C:\DEVGRP\Reflex101\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.ucAccountingPicker.resources
+C:\DEVGRP\Reflex101\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.csproj.GenerateResource.Cache
+C:\DEVGRP\Reflex101\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.dll
+C:\DEVGRP\Reflex101\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.pdb
+C:\DEVGRP\Reflex101\DotNet\DotNetCompileDirectory(no running)\AccountingPicker.dll
+C:\DEVGRP\Reflex101\DotNet\DotNetCompileDirectory(no running)\AccountingPicker.pdb
+C:\DEVGRP\Reflex101\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.dll.licenses
+Y:\Reflex101\DotNet\DotNetCompileDirectory(no running)\AccountingPicker.dll
+Y:\Reflex101\DotNet\DotNetCompileDirectory(no running)\AccountingPicker.pdb
+Y:\Reflex101\DotNet\CommonComponents\AccountingPicker\obj\Debug\ResolveAssemblyReference.cache
+Y:\Reflex101\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.PeriodsAdmin.resources
+Y:\Reflex101\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.ucAccountingPicker.resources
+Y:\Reflex101\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.csproj.GenerateResource.Cache
+Y:\Reflex101\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.dll.licenses
+Y:\Reflex101\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.dll
+Y:\Reflex101\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.pdb
+Y:\Reflex101\Initiatives\4351\gchehowy\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AccountingPicker.dll
+Y:\Reflex101\Initiatives\4351\gchehowy\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AccountingPicker.pdb
+Y:\Reflex101\Initiatives\4351\gchehowy\Code\Checkedout\Dotnet\COMMONCOMPONENTS\ACCOUNTINGPICKER\obj\Debug\ResolveAssemblyReference.cache
+Y:\Reflex101\Initiatives\4351\gchehowy\Code\Checkedout\Dotnet\COMMONCOMPONENTS\ACCOUNTINGPICKER\obj\Debug\AccountingPicker.PeriodsAdmin.resources
+Y:\Reflex101\Initiatives\4351\gchehowy\Code\Checkedout\Dotnet\COMMONCOMPONENTS\ACCOUNTINGPICKER\obj\Debug\AccountingPicker.ucAccountingPicker.resources
+Y:\Reflex101\Initiatives\4351\gchehowy\Code\Checkedout\Dotnet\COMMONCOMPONENTS\ACCOUNTINGPICKER\obj\Debug\AccountingPicker.csproj.GenerateResource.Cache
+Y:\Reflex101\Initiatives\4351\gchehowy\Code\Checkedout\Dotnet\COMMONCOMPONENTS\ACCOUNTINGPICKER\obj\Debug\AccountingPicker.dll.licenses
+Y:\Reflex101\Initiatives\4351\gchehowy\Code\Checkedout\Dotnet\COMMONCOMPONENTS\ACCOUNTINGPICKER\obj\Debug\AccountingPicker.dll
+Y:\Reflex101\Initiatives\4351\gchehowy\Code\Checkedout\Dotnet\COMMONCOMPONENTS\ACCOUNTINGPICKER\obj\Debug\AccountingPicker.pdb
+y:\Reflex11\DotNet\DotNetCompileDirectory(no running)\AccountingPicker.dll
+y:\Reflex11\DotNet\DotNetCompileDirectory(no running)\AccountingPicker.pdb
+y:\Reflex11\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.csprojResolveAssemblyReference.cache
+y:\Reflex11\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.PeriodsAdmin.resources
+y:\Reflex11\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.ucAccountingPicker.resources
+y:\Reflex11\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.csproj.GenerateResource.Cache
+y:\Reflex11\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.dll.licenses
+y:\Reflex11\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.dll
+y:\Reflex11\DotNet\CommonComponents\AccountingPicker\obj\Debug\AccountingPicker.pdb

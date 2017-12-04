@@ -1,0 +1,152 @@
+C:\DEVGRP\Reflex101\DotNet\DotNetCompileDirectory(no running)\AlertManager.dll
+C:\DEVGRP\Reflex101\DotNet\DotNetCompileDirectory(no running)\AlertManager.pdb
+C:\DEVGRP\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\obj\Debug\ResolveAssemblyReference.cache
+C:\DEVGRP\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\obj\Debug\AlertManager.AlertView.resources
+C:\DEVGRP\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\obj\Debug\AlertManager.ManagementBoard.resources
+C:\DEVGRP\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\obj\Debug\AlertManager.csproj.GenerateResource.Cache
+C:\DEVGRP\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\obj\Debug\AlertManager.dll.licenses
+C:\DEVGRP\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\obj\Debug\AlertManager.dll
+C:\DEVGRP\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\obj\Debug\AlertManager.pdb
+C:\DEVGRP\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\obj\Debug\AlertManager.Properties.Resources.resources
+Y:\Reflex101\DotNet\DotNetCompileDirectory(no running)\AlertManager.dll
+Y:\Reflex101\DotNet\DotNetCompileDirectory(no running)\AlertManager.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\obj\Debug\ResolveAssemblyReference.cache
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\obj\Debug\AlertManager.AlertView.resources
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\obj\Debug\AlertManager.ManagementBoard.resources
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\obj\Debug\AlertManager.Properties.Resources.resources
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\obj\Debug\AlertManager.csproj.GenerateResource.Cache
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\obj\Debug\AlertManager.dll.licenses
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\obj\Debug\AlertManager.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\obj\Debug\AlertManager.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\AlertManager.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\AlertManager.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\AlertViews.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\HMConnection.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\TUC_HMDevXManager.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\WS_Popups.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\GL_Account_Search.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\ChartDefaults.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\GL_Account_Lookup_Rep.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\WS_InvReDist.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\GL_Password_Checker.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\ReflexAnalytics.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\SubmissionHistory.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\GL_ReferencePicker.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\WS_Chat.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\GL_Account_Search.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\ChartDefaults.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\GL_Account_Lookup_Rep.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\WS_InvReDist.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\TUC_HMDevXManager.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\WS_Popups.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\AlertViews.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\GL_Password_Checker.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\ReflexAnalytics.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\SubmissionHistory.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\HMConnection.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\HMConnection.xml
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\GL_ReferencePicker.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\WS_Chat.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\WordMerge2003.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\CL_Dialog.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\SharePointMgr.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\WordMerge2003.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\CL_Dialog.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\SharePointMgr.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\TUC_HMDevXManager.xml
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\ProjectTypes.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\GL_SubCode_Picker.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\PC_CostCodesLU.dll
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\ProjectTypes.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\GL_SubCode_Picker.pdb
+Y:\Reflex101\DotNet\Applications\AlertManager\AlertManager\AlertManager\bin\Debug\PC_CostCodesLU.pdb
+Y:\Reflex101\Initiatives\117\ericliu\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AlertManager.dll
+Y:\Reflex101\Initiatives\117\ericliu\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AlertManager.pdb
+Y:\Reflex101\Initiatives\117\ericliu\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\AlertManager\obj\Debug\ResolveAssemblyReference.cache
+Y:\Reflex101\Initiatives\117\ericliu\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\AlertManager\obj\Debug\AlertManager.AlertView.resources
+Y:\Reflex101\Initiatives\117\ericliu\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\AlertManager\obj\Debug\AlertManager.ManagementBoard.resources
+Y:\Reflex101\Initiatives\117\ericliu\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\AlertManager\obj\Debug\AlertManager.Properties.Resources.resources
+Y:\Reflex101\Initiatives\117\ericliu\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\AlertManager\obj\Debug\AlertManager.csproj.GenerateResource.Cache
+Y:\Reflex101\Initiatives\117\ericliu\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\AlertManager\obj\Debug\AlertManager.dll.licenses
+Y:\Reflex101\Initiatives\117\ericliu\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\AlertManager\obj\Debug\AlertManager.dll
+Y:\Reflex101\Initiatives\117\ericliu\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\AlertManager\obj\Debug\AlertManager.pdb
+Y:\Reflex101\Initiatives\221\ahunchak\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AlertManager.dll
+Y:\Reflex101\Initiatives\221\ahunchak\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AlertManager.pdb
+Y:\Reflex101\Initiatives\221\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\ResolveAssemblyReference.cache
+Y:\Reflex101\Initiatives\221\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.AlertView.resources
+Y:\Reflex101\Initiatives\221\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.ManagementBoard.resources
+Y:\Reflex101\Initiatives\221\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.Properties.Resources.resources
+Y:\Reflex101\Initiatives\221\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.csproj.GenerateResource.Cache
+Y:\Reflex101\Initiatives\221\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.dll.licenses
+Y:\Reflex101\Initiatives\221\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.dll
+Y:\Reflex101\Initiatives\221\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.pdb
+Y:\Reflex101\Initiatives\4361\ahunchak\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AlertManager.dll
+Y:\Reflex101\Initiatives\4361\ahunchak\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AlertManager.pdb
+Y:\Reflex101\Initiatives\4361\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\ResolveAssemblyReference.cache
+Y:\Reflex101\Initiatives\4361\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.AlertView.resources
+Y:\Reflex101\Initiatives\4361\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.ManagementBoard.resources
+Y:\Reflex101\Initiatives\4361\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.Properties.Resources.resources
+Y:\Reflex101\Initiatives\4361\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.csproj.GenerateResource.Cache
+Y:\Reflex101\Initiatives\4361\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.dll.licenses
+Y:\Reflex101\Initiatives\4361\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.dll
+Y:\Reflex101\Initiatives\4361\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.pdb
+Y:\Reflex101\Initiatives\4380\ahunchak\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AlertManager.dll
+Y:\Reflex101\Initiatives\4380\ahunchak\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AlertManager.pdb
+Y:\Reflex101\Initiatives\4380\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\ResolveAssemblyReference.cache
+Y:\Reflex101\Initiatives\4380\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.AlertView.resources
+Y:\Reflex101\Initiatives\4380\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.ManagementBoard.resources
+Y:\Reflex101\Initiatives\4380\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.Properties.Resources.resources
+Y:\Reflex101\Initiatives\4380\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.csproj.GenerateResource.Cache
+Y:\Reflex101\Initiatives\4380\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.dll.licenses
+Y:\Reflex101\Initiatives\4380\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.dll
+Y:\Reflex101\Initiatives\4380\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.pdb
+Y:\Reflex101\Initiatives\4425\gchehowy\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AlertManager.dll
+Y:\Reflex101\Initiatives\4425\gchehowy\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AlertManager.pdb
+Y:\Reflex101\Initiatives\4425\gchehowy\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\ResolveAssemblyReference.cache
+Y:\Reflex101\Initiatives\4425\gchehowy\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.AlertView.resources
+Y:\Reflex101\Initiatives\4425\gchehowy\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.ManagementBoard.resources
+Y:\Reflex101\Initiatives\4425\gchehowy\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.Properties.Resources.resources
+Y:\Reflex101\Initiatives\4425\gchehowy\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.csproj.GenerateResource.Cache
+Y:\Reflex101\Initiatives\4425\gchehowy\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.dll.licenses
+Y:\Reflex101\Initiatives\4425\gchehowy\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.dll
+Y:\Reflex101\Initiatives\4425\gchehowy\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.pdb
+Y:\Reflex101\Initiatives\7514\gchehowy\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AlertManager.dll
+Y:\Reflex101\Initiatives\7514\gchehowy\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AlertManager.pdb
+Y:\Reflex101\Initiatives\7514\gchehowy\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\ResolveAssemblyReference.cache
+Y:\Reflex101\Initiatives\7514\gchehowy\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.AlertView.resources
+Y:\Reflex101\Initiatives\7514\gchehowy\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.ManagementBoard.resources
+Y:\Reflex101\Initiatives\7514\gchehowy\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.Properties.Resources.resources
+Y:\Reflex101\Initiatives\7514\gchehowy\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.csproj.GenerateResource.Cache
+Y:\Reflex101\Initiatives\7514\gchehowy\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.dll.licenses
+Y:\Reflex101\Initiatives\7514\gchehowy\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.dll
+Y:\Reflex101\Initiatives\7514\gchehowy\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.pdb
+Y:\Reflex11\DotNet\DotNetCompileDirectory(no running)\AlertManager.dll
+Y:\Reflex11\DotNet\DotNetCompileDirectory(no running)\AlertManager.pdb
+Y:\Reflex11\DotNet\Applications\AlertManager\AlertManager\ALERTMANAGER\obj\Debug\AlertManager.csprojResolveAssemblyReference.cache
+Y:\Reflex11\DotNet\Applications\AlertManager\AlertManager\ALERTMANAGER\obj\Debug\AlertManager.AlertView.resources
+Y:\Reflex11\DotNet\Applications\AlertManager\AlertManager\ALERTMANAGER\obj\Debug\AlertManager.ManagementBoard.resources
+Y:\Reflex11\DotNet\Applications\AlertManager\AlertManager\ALERTMANAGER\obj\Debug\AlertManager.Properties.Resources.resources
+Y:\Reflex11\DotNet\Applications\AlertManager\AlertManager\ALERTMANAGER\obj\Debug\AlertManager.csproj.GenerateResource.Cache
+Y:\Reflex11\DotNet\Applications\AlertManager\AlertManager\ALERTMANAGER\obj\Debug\AlertManager.dll.licenses
+Y:\Reflex11\DotNet\Applications\AlertManager\AlertManager\ALERTMANAGER\obj\Debug\AlertManager.dll
+Y:\Reflex11\DotNet\Applications\AlertManager\AlertManager\ALERTMANAGER\obj\Debug\AlertManager.pdb
+Y:\Reflex11\Initiatives\8592\ahunchak\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AlertManager.dll
+Y:\Reflex11\Initiatives\8592\ahunchak\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AlertManager.pdb
+Y:\Reflex11\Initiatives\8592\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.csprojResolveAssemblyReference.cache
+Y:\Reflex11\Initiatives\8592\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.AlertView.resources
+Y:\Reflex11\Initiatives\8592\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.ManagementBoard.resources
+Y:\Reflex11\Initiatives\8592\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.Properties.Resources.resources
+Y:\Reflex11\Initiatives\8592\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.csproj.GenerateResource.Cache
+Y:\Reflex11\Initiatives\8592\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.dll.licenses
+Y:\Reflex11\Initiatives\8592\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.dll
+Y:\Reflex11\Initiatives\8592\ahunchak\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.pdb
+Y:\Reflex11\Initiatives\9639\ycai\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.AlertView.resources
+Y:\Reflex11\Initiatives\9639\ycai\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.ManagementBoard.resources
+Y:\Reflex11\Initiatives\9639\ycai\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.Properties.Resources.resources
+Y:\Reflex11\Initiatives\9639\ycai\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.csproj.GenerateResource.Cache
+Y:\Reflex11\Initiatives\9639\ycai\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.dll.licenses
+Y:\Reflex11\Initiatives\9639\ycai\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.dll
+Y:\Reflex11\Initiatives\9639\ycai\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.pdb
+Y:\Reflex11\Initiatives\9639\ycai\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AlertManager.dll
+Y:\Reflex11\Initiatives\9639\ycai\Code\Checkedout\Dotnet\DotNetCompileDirectory(no running)\AlertManager.pdb
+Y:\Reflex11\Initiatives\9639\ycai\Code\Checkedout\Dotnet\APPLICATIONS\ALERTMANAGER\ALERTMANAGER\ALERTMANAGER\obj\Debug\AlertManager.csprojResolveAssemblyReference.cache
